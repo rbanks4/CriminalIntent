@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/RouteMatch/rm-driver-android-app" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.routematch.com/MOD/rm-android-module-frontimagetab.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/DriverApp" />
