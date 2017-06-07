@@ -14,8 +14,12 @@
           <option name="url" value="http://git.routematch.com" />
           <option name="userName" value="rbanks" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RouteMatch/rm-driver-android-app" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/RideRunner" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/DriverApp" />
   </component>
 </application>
