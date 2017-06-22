@@ -4,6 +4,8 @@
       <mapping ext="ttf" type="Native" />
       <mapping pattern="addingEsriNotes" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
+      <mapping pattern="bebasneue" type="XML" />
+      <mapping pattern="bebas_neue" type="XML" />
     </extensionMap>
   </component>
 </application>
