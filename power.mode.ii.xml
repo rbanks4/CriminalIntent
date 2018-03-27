@@ -1,5 +1,8 @@
 <application>
   <component name="PowerModeII">
+    <option name="customBamImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
+    <option name="customFlameImageFolder" value="$APPLICATION_HOME_DIR$/bin" />
     <option name="flamesEnabled" value="false" />
+    <option name="soundsFolder" value="$APPLICATION_HOME_DIR$/bin" />
   </component>
 </application>
