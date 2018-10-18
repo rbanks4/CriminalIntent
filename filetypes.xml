@@ -1,18 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="ttf" type="Font" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping ext="ttf" type="Native" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="addingEsriNotes" type="PLAIN_TEXT" />
-      <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern=".app-version" type="PLAIN_TEXT" />
+      <mapping pattern=".version" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="lor" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="bebasneue" type="XML" />
       <mapping pattern="bebas_neue" type="XML" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
