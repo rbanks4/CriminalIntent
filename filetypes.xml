@@ -4,6 +4,7 @@
       <mapping pattern="addingEsriNotes" type="PLAIN_TEXT" />
       <mapping pattern=".app-version" type="PLAIN_TEXT" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
+      <mapping pattern="keystorePassword" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="lor" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
