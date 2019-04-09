@@ -93,6 +93,7 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JAVA">
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
