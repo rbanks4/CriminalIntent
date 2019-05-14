@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/RouteMatch/pay-android-app-driver.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RouteMatch/rm-android-app-mobility.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/RouteMatchGit" />
