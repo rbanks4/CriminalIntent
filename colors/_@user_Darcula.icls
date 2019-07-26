@@ -4,7 +4,7 @@
     <property name="created">2018-02-12T13:24:25</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.18</property>
-    <property name="modified">2019-05-02T12:20:57</property>
+    <property name="modified">2019-07-25T13:45:25</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -20,6 +20,22 @@
       <value>
         <option name="FOREGROUND" value="c4d33f" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="b554ff" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="b554ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="b554ff" />
       </value>
     </option>
     <option name="LAMBDA_PARAMETER_ATTRIBUTES">
