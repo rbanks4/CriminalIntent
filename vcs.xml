@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/pro100svitlo/Credit-Card-NFC-Reader.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RouteMatch/mod-android-kotlin-app-driver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/RouteMatchGit" />
