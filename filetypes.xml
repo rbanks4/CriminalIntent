@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="keystorePassword" type="PLAIN_TEXT" />
+      <mapping pattern="products" type="PLAIN_TEXT" />
       <mapping pattern="birb" type="PLAIN_TEXT" />
       <mapping pattern="addingEsriNotes" type="PLAIN_TEXT" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
