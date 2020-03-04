@@ -110,6 +110,10 @@
           <option name="url" value="https://github.com/phunware/blog-android-clean-coding-approach.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RouteMatch/rm-android-node-ui-testing-mobility.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/RouteMatchGit" />
