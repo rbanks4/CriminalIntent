@@ -29,6 +29,9 @@
   <AndroidXmlCodeStyleSettings>
     <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="FIELD_NAME_PREFIX" value="m_" />
+  </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
