@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="products" type="PLAIN_TEXT" />
       <mapping pattern="rider" type="PLAIN_TEXT" />
       <mapping pattern=".app-version" type="PLAIN_TEXT" />
@@ -14,8 +15,8 @@
       <mapping ext="id" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="dld" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="lor" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="bebasneue" type="XML" />
       <mapping pattern="bebas_neue" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />
