@@ -13,6 +13,7 @@
       <mapping pattern="keystorePassword" type="PLAIN_TEXT" />
       <mapping pattern="addingEsriNotes" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="hhvPayment" type="PLAIN_TEXT" />
       <mapping ext="id" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="dld" type="PLAIN_TEXT" />
