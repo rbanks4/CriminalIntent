@@ -8,6 +8,7 @@
       <mapping pattern=".app-version" type="PLAIN_TEXT" />
       <mapping pattern="customers" type="PLAIN_TEXT" />
       <mapping pattern="birb" type="PLAIN_TEXT" />
+      <mapping pattern="virtualPass" type="PLAIN_TEXT" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern="keystorePassword" type="PLAIN_TEXT" />
       <mapping pattern="addingEsriNotes" type="PLAIN_TEXT" />
